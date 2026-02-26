@@ -9,8 +9,9 @@ print(nome, idade, peso)
 nome=input('qual seu nome?: ')
 idade=input('qual sua idade?: ')
 peso=input('qual seu peso?: ')
-print('Seu nome é {}, sua idade é {} e seu peso é {}'.format(nome, idade, peso))
 
+
+print('Seu nome é {}, sua idade é {} e seu peso é {}'.format(nome, idade, peso))
 
 
 
