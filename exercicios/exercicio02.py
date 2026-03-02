@@ -1,6 +1,6 @@
-dia=input('qual o dia que nasceu?: ')
-mês=input('qual o mês que nasceu?: ')
-ano=input('qual o ano que nasceu?: ')
-print('o dia que nasceu {},o mês que nasceu{} e qual ano que nasceu{}'.format(dia, mês, ano))
+dia=input('qual o dia dessa essa atividade?: ')
+mês=input('qual o mês dessa essa atividade?: ')
+ano=input('qual o ano dessa atividade?: ')
+print('o dia dessa essa atividade{},o mêsdessa essa atividade {} e qual ano dessa essa atividade{}'.format(dia, mês, ano))
 
 
